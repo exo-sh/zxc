@@ -1,7 +1,15 @@
 [package]
-name = "zxc"
+name = "zxc-rs"
+description = "zxc: your new standard library"
+homepage = "https://zxc.rs/"
+repository = "https://github.com/exo-sh/zxc/"
+authors = ["Randy Dodgen <randy@exo.sh>"]
+license = "Apache-2.0"
+keywords = ["type-level", "auth", "policy"]
+
 version = "0.1.0"
 edition = "2021"
+
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
